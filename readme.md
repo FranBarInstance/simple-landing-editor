@@ -6,7 +6,7 @@ A collection of beautiful, responsive landing page templates that you can edit d
 
 ## Demo
 
-**Live Demo**: [Landing page editor](https://github.com/FranBarInstance/simple-landing-editor/landing)
+**Live Demo**: [Landing page editor](https://franbarinstance.github.io/simple-landing-editor/landing)
 
 ## 📋 Instructions
 
@@ -19,191 +19,191 @@ Click on any template image to start editing directly in the editor.
 ---
 
 ### Blaster
-[![Blaster Template](landing/blaster/screenshot.webp)](landing/blaster/index.html)
+[![Blaster Template](https://franbarinstance.github.io/simple-landing-editor/landing/blaster/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/blaster/index.html)
 
-**[📝 Edit Template](landing/blaster/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/blaster/index.html)**
 
 ---
 
 ### SEO Dream
-[![SEO Dream Template](landing/seo-dream/screenshot.webp)](landing/seo-dream/index.html)
+[![SEO Dream Template](https://franbarinstance.github.io/simple-landing-editor/landing/seo-dream/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/seo-dream/index.html)
 
-**[📝 Edit Template](landing/seo-dream/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/seo-dream/index.html)**
 
 ---
 
 ### Space Dynamic
-[![Space Dynamic Template](landing/space-dynamic/screenshot.webp)](landing/space-dynamic/index.html)
+[![Space Dynamic Template](https://franbarinstance.github.io/simple-landing-editor/landing/space-dynamic/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/space-dynamic/index.html)
 
-**[📝 Edit Template](landing/space-dynamic/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/space-dynamic/index.html)**
 
 ---
 
 ### Fox
-[![Fox Template](landing/fox/screenshot.webp)](landing/fox/index.html)
+[![Fox Template](https://franbarinstance.github.io/simple-landing-editor/landing/fox/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/fox/index.html)
 
-**[📝 Edit Template](landing/fox/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/fox/index.html)**
 
 ---
 
 ### Landing Page
-[![Landing Page Template](landing/landing-page/screenshot.webp)](landing/landing-page/index.html)
+[![Landing Page Template](https://franbarinstance.github.io/simple-landing-editor/landing/landing-page/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/landing-page/index.html)
 
-**[📝 Edit Template](landing/landing-page/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/landing-page/index.html)**
 
 ---
 
 ### New Age
-[![New Age Template](landing/new-age/screenshot.webp)](landing/new-age/index.html)
+[![New Age Template](https://franbarinstance.github.io/simple-landing-editor/landing/new-age/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/new-age/index.html)
 
-**[📝 Edit Template](landing/new-age/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/new-age/index.html)**
 
 ---
 
 ### Stylish Portfolio
-[![Stylish Portfolio Template](landing/stylish-portfolio/screenshot.webp)](landing/stylish-portfolio/index.html)
+[![Stylish Portfolio Template](https://franbarinstance.github.io/simple-landing-editor/landing/stylish-portfolio/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/stylish-portfolio/index.html)
 
-**[📝 Edit Template](landing/stylish-portfolio/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/stylish-portfolio/index.html)**
 
 ---
 
 ### Creative
-[![Creative Template](landing/creative/screenshot.webp)](landing/creative/index.html)
+[![Creative Template](https://franbarinstance.github.io/simple-landing-editor/landing/creative/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/creative/index.html)
 
-**[📝 Edit Template](landing/creative/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/creative/index.html)**
 
 ---
 
 ### Digimedia
-[![Digimedia Template](landing/digimedia/screenshot.webp)](landing/digimedia/index.html)
+[![Digimedia Template](https://franbarinstance.github.io/simple-landing-editor/landing/digimedia/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/digimedia/index.html)
 
-**[📝 Edit Template](landing/digimedia/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/digimedia/index.html)**
 
 ---
 
 ### Restaurant
-[![Restaurant Template](landing/restaurant/screenshot.webp)](landing/restaurant/index.html)
+[![Restaurant Template](https://franbarinstance.github.io/simple-landing-editor/landing/restaurant/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/restaurant/index.html)
 
-**[📝 Edit Template](landing/restaurant/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/restaurant/index.html)**
 
 ---
 
 ### Medic Care
-[![Medic Care Template](landing/medic-care/screenshot.webp)](landing/medic-care/index.html)
+[![Medic Care Template](https://franbarinstance.github.io/simple-landing-editor/landing/medic-care/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/medic-care/index.html)
 
-**[📝 Edit Template](landing/medic-care/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/medic-care/index.html)**
 
 ---
 
 ### Grayscale
-[![Grayscale Template](landing/grayscale/screenshot.webp)](landing/grayscale/index.html)
+[![Grayscale Template](https://franbarinstance.github.io/simple-landing-editor/landing/grayscale/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/grayscale/index.html)
 
-**[📝 Edit Template](landing/grayscale/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/grayscale/index.html)**
 
 ---
 
 ### Lava Landing
-[![Lava Landing Template](landing/lava-landing/screenshot.webp)](landing/lava-landing/index.html)
+[![Lava Landing Template](https://franbarinstance.github.io/simple-landing-editor/landing/lava-landing/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/lava-landing/index.html)
 
-**[📝 Edit Template](landing/lava-landing/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/lava-landing/index.html)**
 
 ---
 
 ### Freelancer
-[![Freelancer Template](landing/freelancer/screenshot.webp)](landing/freelancer/index.html)
+[![Freelancer Template](https://franbarinstance.github.io/simple-landing-editor/landing/freelancer/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/freelancer/index.html)
 
-**[📝 Edit Template](landing/freelancer/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/freelancer/index.html)**
 
 ---
 
 ### Coming Soon
-[![Coming Soon Template](landing/coming-soon/screenshot.webp)](landing/coming-soon/index.html)
+[![Coming Soon Template](https://franbarinstance.github.io/simple-landing-editor/landing/coming-soon/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/coming-soon/index.html)
 
-**[📝 Edit Template](landing/coming-soon/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/coming-soon/index.html)**
 
 ---
 
 ### Brandi
-[![Brandi Template](landing/brandi/screenshot.webp)](landing/brandi/index.html)
+[![Brandi Template](https://franbarinstance.github.io/simple-landing-editor/landing/brandi/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/brandi/index.html)
 
-**[📝 Edit Template](landing/brandi/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/brandi/index.html)**
 
 ---
 
 ### Resume
-[![Resume Template](landing/resume/screenshot.webp)](landing/resume/index.html)
+[![Resume Template](https://franbarinstance.github.io/simple-landing-editor/landing/resume/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/resume/index.html)
 
-**[📝 Edit Template](landing/resume/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/resume/index.html)**
 
 ---
 
 ### Casual
-[![Casual Template](landing/casual/screenshot.webp)](landing/casual/index.html)
+[![Casual Template](https://franbarinstance.github.io/simple-landing-editor/landing/casual/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/casual/index.html)
 
-**[📝 Edit Template](landing/casual/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/casual/index.html)**
 
 ---
 
 ### Multipurpose
-[![Multipurpose Template](landing/multipurpose/screenshot.webp)](landing/multipurpose/index.html)
+[![Multipurpose Template](https://franbarinstance.github.io/simple-landing-editor/landing/multipurpose/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/multipurpose/index.html)
 
-**[📝 Edit Template](landing/multipurpose/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/multipurpose/index.html)**
 
 ---
 
 ### Softy Pinko
-[![Softy Pinko Template](landing/softy-pinko/screenshot.webp)](landing/softy-pinko/index.html)
+[![Softy Pinko Template](https://franbarinstance.github.io/simple-landing-editor/landing/softy-pinko/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/softy-pinko/index.html)
 
-**[📝 Edit Template](landing/softy-pinko/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/softy-pinko/index.html)**
 
 ---
 
 ### Newline
-[![Newline Template](landing/newline/screenshot.webp)](landing/newline/index.html)
+[![Newline Template](https://franbarinstance.github.io/simple-landing-editor/landing/newline/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/newline/index.html)
 
-**[📝 Edit Template](landing/newline/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/newline/index.html)**
 
 ---
 
 ### Solution
-[![Solution Template](landing/solution/screenshot.webp)](landing/solution/index.html)
+[![Solution Template](https://franbarinstance.github.io/simple-landing-editor/landing/solution/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/solution/index.html)
 
-**[📝 Edit Template](landing/solution/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/solution/index.html)**
 
 ---
 
 ### Theme Light
-[![Theme Light Template](landing/themelight/screenshot.webp)](landing/themelight/index.html)
+[![Theme Light Template](https://franbarinstance.github.io/simple-landing-editor/landing/themelight/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/themelight/index.html)
 
-**[📝 Edit Template](landing/themelight/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/themelight/index.html)**
 
 ---
 
 ### First Portfolio
-[![First Portfolio Template](landing/first-portfolio/screenshot.webp)](landing/first-portfolio/index.html)
+[![First Portfolio Template](https://franbarinstance.github.io/simple-landing-editor/landing/first-portfolio/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/first-portfolio/index.html)
 
-**[📝 Edit Template](landing/first-portfolio/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/first-portfolio/index.html)**
 
 ---
 
 ### One Page Wonder
-[![One Page Wonder Template](landing/one-page-wonder/screenshot.webp)](landing/one-page-wonder/index.html)
+[![One Page Wonder Template](https://franbarinstance.github.io/simple-landing-editor/landing/one-page-wonder/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/one-page-wonder/index.html)
 
-**[📝 Edit Template](landing/one-page-wonder/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/one-page-wonder/index.html)**
 
 ---
 
 ### Art Factory
-[![Art Factory Template](landing/art-factory/screenshot.webp)](landing/art-factory/index.html)
+[![Art Factory Template](https://franbarinstance.github.io/simple-landing-editor/landing/art-factory/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/art-factory/index.html)
 
-**[📝 Edit Template](landing/art-factory/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/art-factory/index.html)**
 
 ---
 
 ### Agency
-[![Agency Template](landing/agency/screenshot.webp)](landing/agency/index.html)
+[![Agency Template](https://franbarinstance.github.io/simple-landing-editor/landing/agency/screenshot.webp)](https://franbarinstance.github.io/simple-landing-editor/landing/agency/index.html)
 
-**[📝 Edit Template](landing/agency/index.html)**
+**[📝 Edit Template](https://franbarinstance.github.io/simple-landing-editor/landing/agency/index.html)**
 
 ---
 
