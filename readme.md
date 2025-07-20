@@ -8,6 +8,8 @@ A collection of beautiful, responsive landing page templates that you can edit d
 
 **Live Demo**: [Landing page editor](https://franbarinstance.github.io/simple-landing-editor/landing)
 
+**Editor**: [https://github.com/FranBarInstance/simple-html-editor](https://github.com/FranBarInstance/simple-html-editor)
+
 ## 📋 Instructions
 
 When you finish editing your template click on save, you get an index.html file that you must replace with the one you downloaded with the template.
