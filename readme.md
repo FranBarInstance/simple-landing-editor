@@ -229,7 +229,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is open source. Please check the repository for license details.
+MIT License
 
 ## 🔗 Links
 
@@ -239,7 +239,3 @@ This project is open source. Please check the repository for license details.
 ---
 
 Made with ❤️ by the Simple Landing Page Editor team
-
-## License
-
-MIT License
