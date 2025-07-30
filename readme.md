@@ -1,8 +1,21 @@
-# Simple Landing Page content Editor
+# Landing Page content Editor with AI Agent
 
 **Edit and download your landing page templates for free**
 
 A collection of beautiful, responsive landing page templates that you can edit directly in your browser and download for free.
+
+## Key Features
+
+- Integrated AI Agent for intelligent content editing
+- Full document editing (body and head sections)
+- Modern implementation (no deprecated execCommand)
+- Comprehensive undo/redo system
+- Advanced image handling with preview and resizing
+- Link management with target control
+- Source code editing capability
+- AI-assisted code editing and generation
+- Restorable dynamic content
+- Touch-enabled drag interface
 
 ## Demo
 
